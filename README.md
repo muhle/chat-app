@@ -11,3 +11,6 @@ Use the ChatBackend Version 2.0 file and start it with a command promt
 Run `ng serve` for a dev server in your project folder. 
 Now you can reach your app with   http://localhost:8080/  The app should connect to the Backend Server
 
+## Test Server Connection
+
+To Test the Server connection just click on the Headline "app works !" 
